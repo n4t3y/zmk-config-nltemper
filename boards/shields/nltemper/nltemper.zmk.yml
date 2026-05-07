@@ -8,7 +8,7 @@ name: NLTemper
 type: shield
 
 # Set this to a URL that documents the keyboard.
-url: https://example.com
+url: https://github.com/n4t3y/zmk-config-nltemper
 
 # Add any features your keyboard supports here.
 # See https://zmk.dev/docs/development/hardware-integration/hardware-metadata-files#features
