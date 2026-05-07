@@ -14,6 +14,7 @@ url: https://github.com/n4t3y/zmk-config-nltemper
 # See https://zmk.dev/docs/development/hardware-integration/hardware-metadata-files#features
 features:
   - keys
+  - display  # Remove this line if your keyboard does not have a display
   - studio  # Remove this line if your keyboard will not support ZMK Studio
 
 requires:
